@@ -1,1 +1,18 @@
+__pycache__/
+*.py[cod]
+*$py.class
 
+.venv/
+venv/
+ENV/
+env/
+
+.streamlit/config.toml
+
+vhi_data/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
