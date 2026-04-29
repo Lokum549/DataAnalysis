@@ -40,7 +40,7 @@
 
 1. Відкрийте термінал та клонуйте репозиторій:
    ```bash
-   git clone https://github.com/Lokum549/DataAnalysis.git
+   git clone -b lab6 https://github.com/Lokum549/DataAnalysis.git
 Перейдіть у директорію проєкту:
 
 Bash
